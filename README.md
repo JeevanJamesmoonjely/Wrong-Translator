@@ -1,30 +1,36 @@
-# React component
+# ❌ Wrong Translator
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**Wrong Translator** is a fun and intentionally incorrect translation app. The idea is simple: select a source language and a target language, enter your text, and get a translation — but it's *wrong*! Whether you're building this as a parody project or an experimental tool, it's designed to give unexpected or incorrect translations.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/jeev4nx-1410s-projects/v0-react-component)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/Z3Hq2sM8kDu)
+## 🚀 Features
 
-## Overview
+- Select **source language** and **target language**
+- Input text in your chosen source language
+- Generates a *wrong* or intentionally inaccurate translation
+- Great for learning, fun, or creative projects
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 💡 Project Goals
 
-## Deployment
+This project was created to demonstrate how translation systems work — and how they can go hilariously wrong. It can be used as a mock app for testing language logic or for humor/parody use cases.
 
-Your project is live at:
 
-**[https://vercel.com/jeev4nx-1410s-projects/v0-react-component](https://vercel.com/jeev4nx-1410s-projects/v0-react-component)**
+## 🛠️ How It Works
 
-## Build your app
+1. User selects a source language (e.g., English)
+2. User selects a target language (e.g., French)
+3. User inputs text
+4. App returns a wrong or mismatched translation (e.g., instead of "Bonjour", it might return "Pineapple")
 
-Continue building your app on:
+## 🧩 Tech Stack
 
-**[https://v0.dev/chat/projects/Z3Hq2sM8kDu](https://v0.dev/chat/projects/Z3Hq2sM8kDu)**
+- HTML / CSS / JavaScript (or any front-end framework you use)
+- Optional: Backend with Node.js, Python Flask, etc.
+- Optional: Fake or shuffled dictionary logic
 
-## How It Works
+## 🔧 Installation
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Clone this repo:
+
+```bash
+git clone https://github.com/yourusername/wrong-translator.git
+cd wrong-translator
