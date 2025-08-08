@@ -32,5 +32,5 @@ This project was created to demonstrate how translation systems work — and how
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/wrong-translator.git
-cd wrong-translator
+git clone[ https://github.com/yourusername/wrong-translator.git
+cd wrong-translator](https://github.com/JeevanJamesmoonjely/Wrong-Translator.git)
