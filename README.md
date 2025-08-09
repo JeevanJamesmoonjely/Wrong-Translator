@@ -32,5 +32,5 @@ For Hardware:
 For Software:
 # Installation
 ```bash
-git clone https://github.com/JeevanJamesmoonjely/Wrong-Translator.git
+git clonehttps://github.com/JeevanJamesmoonjely/Wrong-Translator.git
 cd Wrong-Translator
