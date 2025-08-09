@@ -6,9 +6,8 @@
 ### Team Name: The Mis-Translators
 
 ### Team Members
-- Team Lead: Jeevan Jamesmoonjely - [Your College Name]
-- Member 2: [Member 2 Name] - [Member 2 College]
-- Member 3: [Member 3 Name] - [Member 3 College]
+- Team Lead: MOHAMMED ARAFATH - SCMSSCHOOL OF ENGINEERING AND TECHNOLOGY
+- Member 2: JEEVAN JAMES - SCMSSCHOOL OF ENGINEERING AND TECHNOLOGY
 
 ### Project Description
 **Wrong Translator** is a hilarious and intentionally incorrect translation tool that takes any text and translates it in a completely wrong, funny, and random way. Users can select source and target languages, input text, and get a totally bizarre translation in return.
