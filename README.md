@@ -1,36 +1,37 @@
-# ❌ Wrong Translator
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-**Wrong Translator** is a fun and intentionally incorrect translation app. The idea is simple: select a source language and a target language, enter your text, and get a translation — but it's *wrong*! Whether you're building this as a parody project or an experimental tool, it's designed to give unexpected or incorrect translations.
+# Wrong Translator 🎯
 
-## 🚀 Features
+## Basic Details
+### Team Name: The Mis-Translators
 
-- Select **source language** and **target language**
-- Input text in your chosen source language
-- Generates a *wrong* or intentionally inaccurate translation
-- Great for learning, fun, or creative projects
+### Team Members
+- Team Lead: Jeevan Jamesmoonjely - [Your College Name]
+- Member 2: [Member 2 Name] - [Member 2 College]
+- Member 3: [Member 3 Name] - [Member 3 College]
 
-## 💡 Project Goals
+### Project Description
+**Wrong Translator** is a hilarious and intentionally incorrect translation tool that takes any text and translates it in a completely wrong, funny, and random way. Users can select source and target languages, input text, and get a totally bizarre translation in return.
 
-This project was created to demonstrate how translation systems work — and how they can go hilariously wrong. It can be used as a mock app for testing language logic or for humor/parody use cases.
+### The Problem (that doesn't exist)
+The world suffers from *too much* accurate translation. When people travel or communicate across languages, they get the right answers. But what about the *fun* of getting completely random and incorrect translations? We need a way to make translations confusing again!
 
+### The Solution (that nobody asked for)
+We created **Wrong Translator**—a tool that spits out wacky, nonsensical, and *totally wrong* translations, just for fun. It could also be used as a parody of language learning tools or just a good laugh with friends. Want to see "hello" turn into "pineapple" in French? This is your app!
 
-## 🛠️ How It Works
+## Technical Details
+### Technologies/Components Used
+For Software:
+- **Languages used**: HTML, CSS, JavaScript
+- **Libraries used**: [e.g., jQuery if used], custom logic for incorrect translations
+- **Tools used**: Browser for viewing, text editor for coding (VS Code)
 
-1. User selects a source language (e.g., English)
-2. User selects a target language (e.g., French)
-3. User inputs text
-4. App returns a wrong or mismatched translation (e.g., instead of "Bonjour", it might return "Pineapple")
+For Hardware:
+- **N/A** (This project is purely software-based)
 
-## 🧩 Tech Stack
-
-- HTML / CSS / JavaScript (or any front-end framework you use)
-- Optional: Backend with Node.js, Python Flask, etc.
-- Optional: Fake or shuffled dictionary logic
-
-## 🔧 Installation
-
-1. Clone this repo:
-
+### Implementation
+For Software:
+# Installation
 ```bash
-git clone[ https://github.com/yourusername/wrong-translator.git
-cd wrong-translator](https://github.com/JeevanJamesmoonjely/Wrong-Translator.git)
+git clone https://github.com/JeevanJamesmoonjely/Wrong-Translator.git
+cd Wrong-Translator
